@@ -10,12 +10,14 @@ Decision-making is an essential part of any drug development and is often done i
 In this high-risk context, clinical trial optimization should be part of any drug development program to answer important research questions more efficiently and with less risk. Clinical trial modeling and simulations take crucial and invaluable roles to support a thorough assessment of the operating characteristics of the development decisions and performance of candidate trial designs and analysis strategies.
 
 <center>
-  <div class="col-md-6">
+  <div class="col-md-6" style="float:left;">
     <a href="https://www.crcpress.com/Clinical-Trial-Optimization-using-R/Dmitrienko/p/book/9781498735070" class="img-responsive">
-      <img src="assets/img/book.jpg" class="img-responsive"/>
+      <img src="/assets/img/book.jpg" class="img-responsive"/>
     </a>
   </div>
 </center>
+
+
 
 
 Recently the book entitled [Clinical Trial Optimization Using R](https://www.crcpress.com/Clinical-Trial-Optimization-using-R/Dmitrienko/p/book/9781498735070), edited by Alex Dmitrienko and Erik Pulkstenis has been released. This book, fruit of the collaboration between nine statisticians from pharmaceutical industry, provides clinical trial researchers with a unified and efficient approach to clinical trial optimization through a mixture of methodology concepts and practical case studies. The book delves into the Clinical Scenario Evaluation (CSE) framework which facilitates a comprehensive comparison of competing options for clinical development programs and clinical trial design/analyses. This framework was initially introduced by Norbert Benda et al. (2010) and refined by Tim Friede et al (2010) and other publications. From a clinical trial perspective, the CSE framework provides project team with a powerful tool to quantitatively evaluate multiple competing analysis strategies or trial design and examine their sensitivity to potential deviations from original assumptions. In this sense, the CSE framework gives sponsors a comprehensive approach to optimizing drug development. 
