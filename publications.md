@@ -13,6 +13,7 @@ subtitle:
 5. Paux, G., Dmitrienko, A. (2017). [Penalty-based approaches to evaluating multiplicity adjustments in clinical trials: Traditional multiplicity problems](http://www.tandfonline.com/doi/full/10.1080/10543406.2017.1397010). Journal of Biopharmaceutical Statistics. 28:146-168.
 6. Paux, G., Dmitrienko, A. (2017). [Penalty-based approaches to evaluating multiplicity adjustments in clinical trials: Advanced multiplicity problems](http://www.tandfonline.com/doi/full/10.1080/10543406.2017.1397011). Journal of Biopharmaceutical Statistics. 28:169-188.
 7. Quan, H., Chen, X., Lan, Y., Luo, X., Kubiac, R., Bonnet, N., Paux, G. (2020). [Applications of Bayesian analysis to proof‐of‐concept trial planning and decision making](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.1985). Pharmaceutical Statistics. 19: 468– 481.
+8. Quan, H., Xu, Z., Luo, X., Paux, G., Cho, M., Xun, C. (2023). [Utilization of treatment effect on a surrogate endpoint for planning a study to evaluate treatment effect on a final endpoint](https://onlinelibrary.wiley.com/doi/10.1002/pst.2298). Pharmaceutical Statistics. 22: 633-649.
 
 # Book chapters
 
