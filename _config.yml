@@ -22,8 +22,8 @@ author: Gautier Paux
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  # Talks/Poster: "talks"
-  # Working groups: "workinggroups"
+  Talks/Poster: "talks"
+  Working groups: "workinggroups"
   R packages: "rpackages"
 
 ################
