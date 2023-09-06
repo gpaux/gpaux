@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Talks/Posters
+title: Posters
 subtitle: 
 ---
 
-# Talks
+# Posters
 
 1.
