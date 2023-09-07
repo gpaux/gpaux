@@ -22,7 +22,9 @@ author: Gautier Paux
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications"
+  Publications: 
+    - Statistical: "pub_stat"
+    - Medical: "pub_med"
   Conferences:
     - Committees: "committees"
     - Talks: "talks"
