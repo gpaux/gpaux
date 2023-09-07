@@ -1,0 +1,19 @@
+---
+layout: page
+title: Publications
+subtitle: 
+---
+
+# Accepted papers
+
+1. Campone, M., Bachelot, T., Penault-Llorca, F., Pallis, A., Agrapart, V., Pierrat, M.-J., Poirot, C., **Paux, G.**, Dubois, F., Xuereb, L., Robert, R., & Andre, F. (2018). Abstract P1-09-11: A phase Ib study of oral administration of lucitanib in combination with fulvestrant in patients with HR+ metastatic breast cancer (mBC). In Cancer Research (Vol. 78, Issue 4_Supplement, pp. P1-09-11-P1-09–11). American Association for Cancer Research (AACR). https://doi.org/10.1158/1538-7445.sabcs17-p1-09-11
+2. Orlowski, R. Z., Goldschmidt, H., Cavo, M., Martin, T. G., **Paux, G.**, Oprea, C., & Facon, T. (2018). Phase III (IMROZ) study design: Isatuximab plus bortezomib (V), lenalidomide (R), and dexamethasone (d) vs VRd in transplant-ineligible patients (pts) with newly diagnosed multiple myeloma (NDMM). In Journal of Clinical Oncology (Vol. 36, Issue 15_suppl, pp. TPS8055–TPS8055). American Society of Clinical Oncology (ASCO). https://doi.org/10.1200/jco.2018.36.15_suppl.tps8055
+3. Chandarlapaty, S., Linden, H. M., Neven, P., Petrakova, K., Bardia, A., Kabos, P., Braga, S. A. D. S., Boni, V., Gosselin, A., Cartot-Cotton, S., Doroumian, S., Celanovic, M., Cohen, P., **Paux, G.**, & Campone, M. (2021). AMEERA-1: Phase 1/2 study of amcenestrant (SAR439859), an oral selective estrogen receptor (ER) degrader (SERD), with palbociclib (palbo) in postmenopausal women with ER+/ human epidermal growth factor receptor 2-negative (HER2-) metastatic breast cancer (mBC). In Journal of Clinical Oncology (Vol. 39, Issue 15_suppl, pp. 1058–1058). American Society of Clinical Oncology (ASCO). https://doi.org/10.1200/jco.2021.39.15_suppl.1058
+4. Chandarlapaty, S., Linden, H. M., Neven, P., Petrakova, K., Bardia, A., Kabos, P., Braga, S., Boni, V., Pelekanou, V., Ternès, N., Gosselin, A., Celanovic, M., Cohen, P., **Paux, G.**, & Campone, M. (2021). 264P AMEERA-1: Subgroup analyses of phase I/II study of amcenestrant (SAR439859), an oral selective estrogen receptor (ER) degrader (SERD), with palbociclib in postmenopausal women with ER+/ human epidermal growth factor receptor 2-negative (HER2–) advanced breast cancer (aBC). In Annals of Oncology (Vol. 32, pp. S476–S477). Elsevier BV. https://doi.org/10.1016/j.annonc.2021.08.547
+5.Bardia, A., Chandarlapaty, S., Linden, H. M., Ulaner, G. A., Gosselin, A., Cartot-Cotton, S., Cohen, P., Doroumian, S., **Paux, G.**, Celanovic, M., Pelekanou, V., Ming, J. E., Ternès, N., Bouaboula, M., Lee, J. S., Bauchet, A.-L., & Campone, M. (2022). AMEERA-1 phase 1/2 study of amcenestrant, SAR439859, in postmenopausal women with ER-positive/HER2-negative advanced breast cancer. In Nature Communications (Vol. 13, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1038/s41467-022-31668-8
+5. Tolaney, S. M., Chan, A., Petrakova, K., Delaloge, S., Campone, M., Iwata, H., Peddi, P. F., Kaufman, P. A., De Kermadec, E., Liu, Q., Cohen, P., **Paux, G.**, Wang, L., Ternès, N., Boitier, E., & Im, S.-A. (2023). AMEERA-3: Randomized Phase II Study of Amcenestrant (Oral Selective Estrogen Receptor Degrader) Versus Standard Endocrine Monotherapy in Estrogen Receptor–Positive, Human Epidermal Growth Factor Receptor 2–Negative Advanced Breast Cancer. In Journal of Clinical Oncology (Vol. 41, Issue 24, pp. 4014–4024). American Society of Clinical Oncology (ASCO). https://doi.org/10.1200/jco.22.02746
+6. Balazard, F., Bertaut, A., Bordet, É., Mulard, S., Blanc, J., Briot, N., **Paux, G.**, Dhaini Merimeche, A., Rigal, O., Coutant, C., Fournier, M., Jouannaud, C., Soulie, P., Lerebours, F., Cottu, P.-H., Tredan, O., Vanlemmens, L., Levy, C., Mouret-Reynier, M.-A., … Pistilli, B. (2023). Adjuvant endocrine therapy uptake, toxicity, quality of life, and prediction of early discontinuation. In JNCI: Journal of the National Cancer Institute. Oxford University Press (OUP). https://doi.org/10.1093/jnci/djad109
+
+
+
+
